@@ -4,4 +4,4 @@
 
 書籍でやったこと
 
-[例題](https://www.marlin-arms.com/support/goweb/)
+[等ページ](https://www.marlin-arms.com/support/goweb/)
